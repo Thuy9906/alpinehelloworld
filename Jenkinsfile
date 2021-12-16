@@ -127,7 +127,7 @@ pipeline {
 
 
 
-pipeline {
+/*pipeline {
 
     environment {
         IMAGE_NAME = "alpinehelloworld"
@@ -364,4 +364,4 @@ pipeline {
         }         
     }
 
-}
+}*/
